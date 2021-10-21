@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(65, 0, 119);
+}
+.abc p {
+    color: #f8d7ff;
+    float: right;
+    margin: 0 0 10px 0; 
+}  
+.adc {
+    background-color: rgb(185, 171, 245);
+    text-align: center;
+
+}
+.x{
+    width: 80%;
+}
+.y{
+    color: #f8d7ff;
+    text-align: center;
+    background-color: rgb(125, 41, 194);
+    width: 100%;
+    margin: 0 0 10px 0; 
+}
+.z{
+    text-align: center;
+    width: 100%;
+    margin: 0 0 10px 0; 
+}
